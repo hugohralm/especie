@@ -1,0 +1,30 @@
+{
+   "especies":[
+      {
+         "especieId":"857bcecd-af0c-4ce2-8390-8e1e70497b57",
+         "dataInicio":"2020-10-13T22:44:32.754-03:00",
+         "tipoAmbiente":"URBANO",
+         "tipoEspecie":"EXOTICA",
+         "nomeCientifico":"Tibouchina granulosa",
+         "nomesPopulares":[
+            "Quaresmeira",
+            "Quaresma"
+         ],
+         "dica":"Dica especie",
+         "descricao":"Descricao especie"
+      },
+      {
+         "especieId":"d611bf7d-56c8-402b-a980-4400c527ec36",
+         "dataInicio":"2020-10-13T22:45:42.306-03:00",
+         "tipoAmbiente":"URBANO",
+         "tipoEspecie":"NATIVA",
+         "nomeCientifico":"Licania tomentosa",
+         "nomesPopulares":[
+            "Oiti",
+            "Goiti"
+         ],
+         "dica":"Dica especie",
+         "descricao":"Descricao especie"
+      }
+   ]
+}
